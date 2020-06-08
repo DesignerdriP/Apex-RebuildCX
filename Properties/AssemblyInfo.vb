@@ -1,0 +1,21 @@
+﻿Imports System.Diagnostics
+Imports System.Reflection
+Imports System.Runtime.CompilerServices
+Imports System.Runtime.InteropServices
+Imports System.Runtime.Versioning
+
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyConfiguration("")>
+<Assembly: AssemblyCopyright("")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyFileVersion("1.1.3.3")>
+<Assembly: AssemblyProduct("")>
+<Assembly: AssemblyTitle("")>
+<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyVersion("1.1.3.3")>
+<Assembly: CompilationRelaxations(8)>
+<Assembly: ComVisible(False)>
+<Assembly: Debuggable(DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)>
+<Assembly: Guid("d10e8b23-ca57-4d36-a938-b3456c97a0ed")>
+<Assembly: RuntimeCompatibility(WrapNonExceptionThrows:=True)>
+<Assembly: SuppressIldasm>
