@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\loader\obj\Debug\System.IO.Compression.FileSystem.csproj.CoreCompileInputs.cache
